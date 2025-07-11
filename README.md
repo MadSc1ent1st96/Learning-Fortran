@@ -105,16 +105,17 @@ This repository documents my 7-day learning journey in Fortran. The code example
 ## 📁 Directory Structure
 
 Fortran/
-│
-├── day1.f90
-├── day2.f90
-├── day3.f90
-├── day4.f90
-├── day5.f90
-├── day7.f90
-├── Day 5/
-│ ├── [Day 5 codes]
-│ └── [10 solved questions, each in a separate file]
+├── day1.f90          # Basics & Data Types
+├── day2.f90          # Control Flow & Arrays
+├── day3.f90          # Subroutines & Functions
+├── day4.f90          # File I/O
+├── day5.f90          # Numerical Methods overview
+├── day7.f90          # Integration & Mini Project
+└── Day 5/            # Detailed numerical methods
+    ├── question1.f90 # Finite differences
+    ├── question2.f90 # Trapezoidal rule
+    └── [8 more question files]
+
 
 - Each `dayN.f90` file contains the main concepts and practice codes for that day.
 - The `Day 5/` folder contains extended codes and detailed solutions for the 10 numerical questions tackled on Day 5.
