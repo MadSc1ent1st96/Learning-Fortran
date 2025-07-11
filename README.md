@@ -105,7 +105,7 @@ This repository documents my 7-day learning journey in Fortran. The code example
 ## 📁 Directory Structure
 
 Fortran/
-├── day1.f90          # Basics & Data Types
+├── day1.f90          # Basics & Data Types \n
 ├── day2.f90          # Control Flow & Arrays
 ├── day3.f90          # Subroutines & Functions
 ├── day4.f90          # File I/O
